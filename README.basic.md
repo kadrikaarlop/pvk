@@ -1,15 +1,15 @@
-# Project name:
+# Project name: Projekti nimi
 
-## Description:
+## Description: Projekti kirjeldus
 
-## Content:
+## Content: Sisu
 
-## Installation:
+## Installation: Kuidas sinu projekti installida?
 
-## Usage:
+## Usage: Kasutus
 
-## Contributing:
+## Contributing: 
 
-## Credits:
+## Credits: Projekti autorid
 
-## License:
+## License: Litsents
