@@ -8,6 +8,6 @@ Siin on inglise keelne link README failist:
 
 https://github.com/kadrikaarlop/pvk/blob/master/README.en.md
 
-
+Ikt serveris oleva portfoolio lahenduse leiad [siit](http://kadrikaarlop.ikt.khk.ee/pvk/portfolio/).
 
 
